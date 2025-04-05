@@ -91,17 +91,24 @@ F1-score (macro avg)
 ## Folder Structure
 
 ├── app/
-│   └── gradio_ui.py
+│ 
+  └── gradio_ui.py
 ├── data/
-│   └── AI-Powered_Content_Cleaned.csv
+│
+  └── AI-Powered_Content_Cleaned.csv
 ├── models/
-│   └── tfidf_vectorizer.pkl
-│   └── classifier_model.pkl
-│   └── multilabel_binarizer.pkl
+│  
+  └── tfidf_vectorizer.pkl
+│ 
+  └── classifier_model.pkl
+│  
+  └── multilabel_binarizer.pkl
 ├── notebooks/
-│   └── EDA_and_Model_Training.ipynb
+│  
+  └── EDA_and_Model_Training.ipynb
 ├── screenshots/
-│   └── ui_screenshot.png
+│  
+  └── ui_screenshot.png
 ├── README.md
 ├── requirements.txt
 
