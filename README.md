@@ -132,6 +132,12 @@ Shaik Jasmin
 
 Sravani Somayagari.
 
+## Key Insights
+- TF-IDF + Logistic Regression yielded 74% Precision@3 with minimal compute
+- Balanced label space with top 50 tags improved accuracy
+- Real-time Gradio frontend enhances usability and explainability
+- Code is modular and extensible for deep learning-based tagging in future
+
 ## Final Notes
 
 We believe this project will be impactful for digital publishers and content platforms to enhance content tagging and personalized recommendations.
